@@ -1,6 +1,6 @@
 {
   "name": "generator-parcel-ts",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "simple parcel app using typescript and scss",
   "homepage": "github.com/aminroosta/generator-parcel-ts",
   "author": {
