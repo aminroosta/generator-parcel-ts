@@ -1,0 +1,24 @@
+{
+  "name": "d3",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "serve": "parcel serve ./index.html",
+    "build": "parcel build ./index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@parcel/transformer-css": "^2.0.0-alpha.3",
+    "@parcel/transformer-postcss": "^2.0.0-alpha.3",
+    "parcel": "^2.0.0-beta.1",
+    "sass": "^1.29.0",
+    "stylus": "^0.54.8"
+  },
+  "resolutions": {
+    "postcss": "^8.1.10"
+  },
+  "preinstall": "npx npm-force-resolutions"
+}
